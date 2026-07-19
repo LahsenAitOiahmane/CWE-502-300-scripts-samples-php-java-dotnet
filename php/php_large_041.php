@@ -77,6 +77,7 @@ final class PhpLarge041
             $this->context['tail'] = 'closed';
         }
     }
+}
 
 final class PhpLarge041Tail
 {
